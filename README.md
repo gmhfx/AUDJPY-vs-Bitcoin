@@ -1,4 +1,4 @@
-# Australian Dollar/Japanese Yen Exchange Rate vs Bitcoin?
+# Australian Dollar/Japanese Yen Exchange Rate vs Bitcoin
 
 Chart plotting AUDJPY exchange rates vs Bitcoin to explore the relationship between forex and crypto.
 
