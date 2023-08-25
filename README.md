@@ -1,6 +1,6 @@
-# Australian Dollar/Japanese Yen Exchange Rate - Leading Indicator for Bitcoin?
+# Australian Dollar/Japanese Yen Exchange Rate vs Bitcoin?
 
-Github PAGES repository where I can publish visualizations and analysis of markets, economic and other financial data.
+Chart plotting AUDJPY exchange rates vs Bitcoin to explore the relationship between forex and crypto.
 
 ## Technologies
 
