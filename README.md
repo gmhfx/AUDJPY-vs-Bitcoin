@@ -19,7 +19,7 @@ Hourly price data over two years for AUDJPY exchange rate and Bitcoin (USD) sour
 
 Hourly close prices for AUDJPY on y-axis with hourly open prices for BTC (USD) on the secondary y-axis plotted versus datetime on x-axis.  Calculated buy and sell indicators derived from 48 hour return hurlde for AUDJPY.  These indicators appear as upward (green) and downard (red) triangles on the chart.
 
-https://gmhfx.github.io/Fantasy_Football/.
+https://gmhfx.github.io/AUDJPY_BTCUSD.html
 
 ### Contact
 
